@@ -7,7 +7,7 @@ import movieRoutes from "./Routes/movie.routes.js";
 import { ENV_VARS } from "./configs/envVars.js";
 import path from "path";
 import { connectDB } from "./configs/db.js";
-import { protectRoute } from "./middleware/protectRoute.js";
+import { protectRoute } from "./Middleware/protectRoute.js";
 
 
 const app = express();
