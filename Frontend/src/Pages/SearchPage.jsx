@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useContentStore } from "../Store/Content";
+import { useContentStore } from "../Store/Content.js";
 import Navbar from "../Components/Navbar";
 import { Search } from "lucide-react";
 import toast from "react-hot-toast";
