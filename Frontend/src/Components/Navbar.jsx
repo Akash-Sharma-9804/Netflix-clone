@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { useAuthStore } from "../Store/authUser";
 import { LogOut, Menu, Search } from "lucide-react";
-import { useContentStore } from "../Store/Content";
+import { useContentStore } from "../Store/content.js";
 
 const Navbar = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
