@@ -8,8 +8,8 @@ import {
   MOVIE_CATEGORIES,
   ORIGINAL_IMG_BASE_URL,
   TV_CATEGORIES,
-} from "../../utils/Constants";
-import { useContentStore } from "../../Store/Content";
+} from "../../utils/Constants.js";
+import { useContentStore } from "../../Store/content.js";
 import MovieSlider from "../../Components/MovieSlider";
 // import { useState } from "react";
 
