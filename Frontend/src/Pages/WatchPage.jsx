@@ -1,12 +1,12 @@
 import { useEffect, useRef, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import { useContentStore } from "../Store/Content";
+import { useContentStore } from "../Store/content.js";
 import axios from "axios";
 import Navbar from "../Components/Navbar";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import ReactPlayer from "react-player";
-import { ORIGINAL_IMG_BASE_URL , SMALL_IMG_BASE_URL } from "../utils/Constants";
-import { formatReleaseDate } from "../utils/dateFunction";
+import { ORIGINAL_IMG_BASE_URL , SMALL_IMG_BASE_URL } from "../utils/Constants.js";
+import { formatReleaseDate } from "../utils/dateFunction.js";
 import WatchPageSkeleton from "../Components/Skeletons/watchPageSkeleton";
 
 const WatchPage = () => {
