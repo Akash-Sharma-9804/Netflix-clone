@@ -7,7 +7,7 @@
     
     "dev": "NODE_ENV=development nodemon Backend/server.js",
     "build": "npm install && npm install --prefix Frontend && npm run build --prefix Frontend",
-    "start": "NODE_ENV=production node Backend/server.js"
+    "start": "cross-env NODE_ENV=production node Backend/server.js"
   },
   "keywords": [],
   "author": "",
