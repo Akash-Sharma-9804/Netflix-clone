@@ -5,7 +5,7 @@ import movieRoutes from "./Routes/movie.routes.js";
  import searchRoutes from "./Routes/search.routes.js";
  import cookieParser from "cookie-parser";
 import { ENV_VARS } from "./configs/envVars.js";
-import path, { join } from "path";
+
 import { connectDB } from "./configs/db.js";
 import cors from "cors";
 // import { protectRoute } from "./MiddleWare/protectRoute.js";
