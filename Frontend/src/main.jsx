@@ -6,7 +6,7 @@ import App from './App.jsx';
 import './index.css';
 import { BrowserRouter } from 'react-router-dom';
 
-axios.defaults.baseURL= 'http://localhost:5000/';
+axios.defaults.baseURL= 'https://netflix-clone-backend-fi4i.onrender.com/';
 
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
