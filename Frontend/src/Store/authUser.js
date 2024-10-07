@@ -19,18 +19,7 @@ export const useAuthStore= create((set)=>({
 			set({ isSigningUp: false, user: null });
 		}
 	},
-    authCheck: async () => {
-		set({ isCheckingAuth: true });
-		try {
-			const response = await axios.get("/api/v1/auth/authCheck");
-
-			set({ user: response.data.user, isCheckingAuth: false });
-		} catch (error) {
-			set({ isCheckingAuth: false, user: null });
-			// toast.error(error.response.data.message || "An error occurred");
-		}
-	},
-
+   
 	logout: async()=>{
 		set({isLoggingOut: true});
 		try {
@@ -52,6 +41,17 @@ export const useAuthStore= create((set)=>({
 		} catch (error) {
 			set({ isLoggingIn: false, user: null });
 			toast.error(error.response.data.message || "Login failed");
+		}
+	},
+	authCheck: async () => {
+		set({ isCheckingAuth: true });
+		try {
+			const response = await axios.get("/api/v1/auth/authCheck");
+
+			set({ user: response.data.user, isCheckingAuth: false });
+		} catch (error) {
+			set({ isCheckingAuth: false, user: null });
+			// toast.error(error.response.data.message || "An error occurred");
 		}
 	},
 
