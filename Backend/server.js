@@ -8,7 +8,7 @@ import { ENV_VARS } from "./configs/envVars.js";
 
 import { connectDB } from "./configs/db.js";
 import cors from "cors";
-// import { protectRoute } from "./MiddleWare/protectRoute.js";
+import { protectRoute } from "./MiddleWare/protectRoute.js";
 
 
 
@@ -21,9 +21,9 @@ app.use(cookieParser());
 app.use(cors());
 
 app.use("/api/v1/auth", authRoutes);
-app.use("/api/v1/movie", movieRoutes);
-app.use("/api/v1/tv", tvRoutes);
-app.use("/api/v1/search", searchRoutes);
+app.use("/api/v1/movie",protectRoute, movieRoutes);
+app.use("/api/v1/tv",protectRoute, tvRoutes);
+app.use("/api/v1/search",protectRoute, searchRoutes);
 
 
 
