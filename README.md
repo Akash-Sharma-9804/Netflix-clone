@@ -1,10 +1,18 @@
 <div align="center">
 
+
 # 🎬 Netflix Clone
 
-![Netflix Clone Banner](https://media.giphy.com/media/u6XbTnJTPznQ6iFBst/giphy.gif)
+
+
+<img src="assets/netflix.gif" alt="Netflix Clone Banner" width="600"/>
+
+
+
+
 
 > A stunning full-stack Netflix clone with modern UI/UX, real-time data, and seamless user experience
+
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)

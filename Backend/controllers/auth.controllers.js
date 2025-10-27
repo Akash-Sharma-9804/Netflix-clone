@@ -83,6 +83,7 @@ export async function login(req,res) {
 			return res.status(400).json({ success: false, message: "Invalid credentials" });
 		}
 
+		console.log("Login");
 		generateTokenAndSetCookie(user._id, res);
 
 		res.status(200).json({
